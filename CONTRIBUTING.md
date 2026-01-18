@@ -50,6 +50,18 @@ chore: initialize repository structure
 
 ---
 
+### Tracker Issues
+
+This repository uses long-living **tracker issues** to keep track of program implementations
+(e.g. Native, Anchor, Pinocchio).
+
+- Tracker issues are used **only for tracking progress**
+- Do not use tracker issues for code review or technical discussion
+- All implementation discussion, feedback, and iteration must happen in the **Pull Request**
+- Reference the tracker issue in your PR description (do not close it)
+
+---
+
 ## Pull Requests
 
 - Keep PRs focused and minimal
